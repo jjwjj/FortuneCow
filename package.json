@@ -1,0 +1,17 @@
+{
+  "name": "cow",
+  "version": "0.0.0",
+  "description": "SMS Generator for Fortune and Cowsay",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.9.2",
+    "express": "~4.10.2",
+    "twilio": "~1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodejs app.js"
+  },
+  "author": "John Whitehurst",
+  "license": "BSD-2-Clause"
+}
